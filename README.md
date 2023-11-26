@@ -6,3 +6,7 @@
 * Whole Slide Images (WSI) of human kidney histology slides.
 * Annotations for the slides (polygons and type of structure).
 * Meta information about each image.
+
+# Credits:
+* https://github.com/PaddlePaddle/PaddleSeg/blob/release/2.9/README_EN.md
+
